@@ -2,6 +2,6 @@
 
 Program uses
 
-*Ruby on Rails
-*Ruby
-*Heroku
+* Ruby on Rails
+* Ruby
+* Heroku
